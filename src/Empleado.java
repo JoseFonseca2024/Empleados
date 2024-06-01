@@ -12,7 +12,7 @@ abstract class Empleado {
         return nombre;
     }
 
-    public String numIdentificación () {
+    public String getnumIdentificación () {
         return numIdentificación;
     }
 
